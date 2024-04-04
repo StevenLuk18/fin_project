@@ -39,6 +39,9 @@ Dashboard link https://app.powerbi.com/links/tydSREHAND?ctid=ed1bf5fb-9f74-42ae-
 ### Weather
 ![image](https://github.com/StevenLuk18/fin_project/assets/158287260/6a89ca02-525b-47d7-8e6e-5ca2695a093f)
 
-#Appendix
+## Appendix
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 https://www.ceicdata.com/en/brazil/average-real-monthly-household-income-actual-earning/average-real-monthly-income-actual-earnings
+
+
