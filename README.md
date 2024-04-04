@@ -7,6 +7,10 @@ Olist, the largest department store in Brazilian marketplaces, generously provid
 After a customer purchases the product from Olist Store, a seller is notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note about the purchase experience and write down some comments.
 
 This is real commercial data, it has been anonymized, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses.
+
+## Data schema
+![image](https://github.com/StevenLuk18/fin_project/assets/158287260/cb76d5d1-9fcc-48e1-83c7-8dfeb029b540)
+
 ## Business analysis with interactive dashboards
 Dashboard link https://app.powerbi.com/links/tydSREHAND?ctid=ed1bf5fb-9f74-42ae-9ecc-f244d532c626&pbi_source=linkShare
 
