@@ -12,7 +12,9 @@ This is real commercial data, it has been anonymized, and references to the comp
 ![image](https://github.com/StevenLuk18/fin_project/assets/158287260/cb76d5d1-9fcc-48e1-83c7-8dfeb029b540)
 
 ## Business analysis with interactive dashboards
-Dashboard link https://app.powerbi.com/links/tydSREHAND?ctid=ed1bf5fb-9f74-42ae-9ecc-f244d532c626&pbi_source=linkShare
+Dashboard link 
+
+https://app.powerbi.com/links/tydSREHAND?ctid=ed1bf5fb-9f74-42ae-9ecc-f244d532c626&pbi_source=linkShare
 
 ## Snapshot of the dashboards (PowerBI service)
 
